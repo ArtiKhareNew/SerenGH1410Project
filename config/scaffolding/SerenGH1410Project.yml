@@ -12,7 +12,7 @@ packages:
   gitServerName: srcCtrl_shared_bitbucket_Arti_1
   gitUrl: https://bitbucket.org/testartiibm
   gitUsername: artikhare
-  gitBranch: master
+  gitBranch: newbranch
 services:
 - serviceName: project.serengh1410.integrations:bitbucketfs
   packages:
